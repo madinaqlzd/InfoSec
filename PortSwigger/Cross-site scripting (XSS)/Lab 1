@@ -1,0 +1,4 @@
+lab wants just a notification to show in front of user
+type <script>alert(1)</script> to search bar in lap page
+you can type anything instead of 1 that located in paranteses (if you want to type a string use "")
+and congratulations you completed the lab
